@@ -1,5 +1,4 @@
 # Lesson One: Introduction to Janus | Script
-
 Welcome to Janus, the new retirement services application to help you adjudicate retirement claims.
 
 A more modern, usable, and accessible approach to retirement claims adjudication now exists with Janus. This lesson and the courses that follow show you what Janus is, how to use the application, how to perform major actions of adjudication within Janus, and finally, what some of the special navigation options are that help you do your job.
@@ -10,9 +9,10 @@ So let's get started and dive into Janus. This lesson covers—
 - The organization, navigation and interaction models for Janus,
 - The options you have with the main navigation, the secondary navigation and utility navigation.
 
+## How Janus Works
 So let's get started taking a look at how Janus works. After you sign on and choose a case to work on, Janus opens.
 
-Let's talk about what the parts of Janus are at the top. In the dark bar, you have the--what we call "the header." This provides the top or the head of the application itself and on the right, you have the ability to access utility functionality. What we call utility navigation. You can—
+Let's talk about what the parts of Janus are at the top. In the dark bar, you have the--what we call "**the header**." This provides the top or the head of the application itself and on the right, you have the ability to access utility functionality. What we call utility navigation. You can—
 
 - Open a case
 - Check out keyboard shortcuts
@@ -22,17 +22,24 @@ Let's talk about what the parts of Janus are at the top. In the dark bar, you ha
 - And log out.
 
 Just under the header on the left you can view your CSA number, the social security number of the annuitant, and the status of the case.
+[insert image lesson1_header.png]
 
-On the right the secondary navigation lets you look at—
+On the right the _secondary navigation (Utility drawer)_ lets you look at—
 
 - Alerts that let you know messages, warnings, and errors in the case
 - Any history of this particular case
 - The documents that you are using in the case,
 - and any comments about this case.
+[insert image lesson1_secondarynav.png]
 
-In the main navigation on the left, you have the sections of the application itself. The main case area is a scrollable region that allows you to go through the case as necessary, either through scrolling, using the scroll bar, or tabbing through items. And even when you tab past the bottom of the visible screen, Janus continues to move forward, displaying the next field.
+In the _main navigation_ on the left, you have the sections of the application itself. The main case area is a scrollable region that allows you to go through the case as necessary, either through scrolling, using the scroll bar, or tabbing through items. And even when you tab past the bottom of the visible screen, Janus continues to move forward, displaying the next field.
+[insert image lesson1_mainnav.png]
 
-At the bottom of Janus is the Action Bar. The Action bar provides an area for actions to execute on the case that you’re looking at. We’ll look more into the Action Bar in depth in another lesson. Let's dive into each of the navigation and interaction areas.
+At the bottom of Janus is the _Action bar_. The Action bar provides an area for actions to execute on the case that you’re looking at. We’ll look more into the Action Bar in depth in another lesson. 
+[insert image lesson1_actionbar.png]
+
+## Navigation and Interaction Areas
+Let's dive into each of the navigation and interaction areas.
 
 - Health benefits provides the ability to enter the information required from the health benefits plan that the annuitant has requested.
 - Life insurance provides election information about life insurance.
@@ -44,7 +51,8 @@ At the bottom of Janus is the Action Bar. The Action bar provides an area for ac
 - Contributions
 - Then below the bar Janus displays the benefits, net payment, and add/deduct, based on calculations that occur.
 
-Let's take a look at how the application itself works when you're using it. Janus organizes its content into sections. A section consists of a heading followed by one or more fields or informational content. In the section heading, you can jump to the next section or the previous section. To do so, select either Previous Section or Next Section.
+Let's take a look at how the application itself works when you're using it. Janus organizes its content into _sections_. A section consists of a heading followed by one or more fields or informational content. In the section heading, you can jump to the next section or the previous section. To do so, select either Previous Section or Next Section.
+[insert image lesson1_sections.png]
 
 When you are within a section within Janus, for sighted people, the software highlights the section name in the navigation with a darker font treatment as well as a dark blue bar to the left of that item. When you go to the next section, highlight moves to that selected section. Also when your mouse hovers over a navigation item, a momentary blue border appears, indicating what you are selecting when you release the mouse.
 
@@ -58,4 +66,5 @@ Selecting any of the items in the secondary navigation opens the utility drawer,
 
 In this case example, we have no alerts. We have no history, we have no documents, and we have no comments. But these items also remain fixed on the right side of your screen, even as you scroll through the application. In a later lesson, we'll look at how each one of these works. The utility navigation provides the ability to select items based off the title of that item. At this point, Janus does not use some of these items. When you're finished with the case, you can then select open a case and you will go to the home page for Janus, which we'll look at in detail in another lesson.
 
+## End
 Thank you for attending this Janus lesson.
