@@ -23,8 +23,7 @@ Let's talk about what the parts of Janus are at the top. In the dark bar, you ha
 
 Just under the header on the left you can view your CSA number, the social security number of the annuitant, and the status of the case.
 
-[insert image lesson1-header.png]
-!(https://janustraining.blob.core.windows.net/images/lesson1-header.png)
+![](https://janustraining.blob.core.windows.net/images/lesson1-header.png)
 
 On the right the _secondary navigation (Utility drawer)_ lets you look at—
 
@@ -33,14 +32,15 @@ On the right the _secondary navigation (Utility drawer)_ lets you look at—
 - The documents that you are using in the case,
 - and any comments about this case.
 
-[insert image lesson1-secondarynav.png]
+![](https://janustraining.blob.core.windows.net/images/lesson1-secondarynav.png)
 
 In the _main navigation_ on the left, you have the sections of the application itself. The main case area is a scrollable region that allows you to go through the case as necessary, either through scrolling, using the scroll bar, or tabbing through items. And even when you tab past the bottom of the visible screen, Janus continues to move forward, displaying the next field.
-[insert image lesson1_mainnav.png]
+
+![](https://janustraining.blob.core.windows.net/images/lesson1_mainnav.png)
 
 At the bottom of Janus is the _Action bar_. The Action bar provides an area for actions to execute on the case that you’re looking at. We’ll look more into the Action Bar in depth in another lesson. 
 
-[insert image lesson1-actionbar.png]
+![](https://janustraining.blob.core.windows.net/images/lesson1-actionbar.png)
 
 ## Navigation and Interaction Areas
 Let's dive into each of the navigation and interaction areas.
@@ -57,7 +57,7 @@ Let's dive into each of the navigation and interaction areas.
 
 Let's take a look at how the application itself works when you're using it. Janus organizes its content into _sections_. A section consists of a heading followed by one or more fields or informational content. In the section heading, you can jump to the next section or the previous section. To do so, select either Previous Section or Next Section.
 
-[insert image lesson1-sections.png]
+![](https://janustraining.blob.core.windows.net/images/lesson1-sections.png)
 
 When you are within a section within Janus, for sighted people, the software highlights the section name in the navigation with a darker font treatment as well as a dark blue bar to the left of that item. When you go to the next section, highlight moves to that selected section. Also when your mouse hovers over a navigation item, a momentary blue border appears, indicating what you are selecting when you release the mouse.
 

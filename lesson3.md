@@ -35,7 +35,7 @@ After you enter values for the four lists, Janus displays fields where you can e
 
 Initially Janus puts one period after the four lists, starting with Period 1. In most cases you enter *Start date* and *End date*. Remember that the end date is the day the annuitant’s service ended. In some cases, you have leave without pay, or LWOP, that you need to enter. When you do, you specify whether that value represents LWOP hours or days.
 
-**[insert image lesson5-addservice.png]**
+![](https://janustraining.blob.core.windows.net/images/lesson5-addservice.png)
 
 You can enter additional periods of service at the same time, as long as they have matching attributes (service type/retirement coverage/time reported as/status of contributions). To do so, select **Add another full-time period**. Keep in mind the text of the button adjusts, depending on the type of service you’re entering. When you select this button, Janus creates new blank rows that reflect your particular type/coverage/time/status combination.
 
@@ -43,7 +43,7 @@ When you finish with that entry, select **Save**. Janus closes the form for ente
 
 Whenever you enter multiple, consecutive periods of certain types of service (such as seasonal or intermittent service), Janus collapses them into a summary row. The “carat” on the left allows you to expand the row to access the details.
   
-**[insert image lesson5-caratsummaryrow.png]**
+![](https://janustraining.blob.core.windows.net/images/lesson5-caratsummaryrow.png)
 
 ## OWCP
 Let’s take a look at how you enter Office of Workers' Compensation Programs (OWCP) time. It’s somewhat rare, but it requires a special form to do so.
@@ -53,13 +53,13 @@ To enter OWCP time, follow these steps:
 2. Similar to how you entered service, fill out the **Start date**, **End date**, and **Hours of OWCP**. 
 3. If necessary, select **Add another OWCP period**. Otherwise, select **Save**.
   
-**[insert image lesson5-addowcp.png]**
+![](https://janustraining.blob.core.windows.net/images/lesson5-addowcp.png)
 
 Once you save, Janus closes the OWCP fields and displays the table summarizing your entries. It also displays the total time the annuitant was on OWCP, shown as whole years and months, without any additional days. If you need to, you can override these values.
 
 ## Other Tips
 Keep in mind that you can edit any row in a service or OWCP table. To do so, 
-1. Select the *pencil* icon [insert image lesson5-pencilicon.png] on the right of the row. Janus opens the details of that row. 
+1. Select the *pencil* icon ![](https://janustraining.blob.core.windows.net/images/lesson5-pencilicon.png) on the right of the row. Janus opens the details of that row. 
 2. When you finish making your changes, select save.
 
 Janus can handle quite complex service histories, as you can tell. 

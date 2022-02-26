@@ -6,7 +6,7 @@ In this lesson, we’ll look at the Utility Drawer. Specifically, let’s go int
 - Documents
 - History
 - Comments
-**[insert image lesson9-utilitydrawer.png]**
+![](https://janustraining.blob.core.windows.net/images/lesson9-utilitydrawer.png)
 
 ## Alerts
 Janus provides messages in several places to let you know about important information. Some of these messages exist as notifications in line with fields to let you know about missing or errant information. Others exist within the _Alerts_ tab of the _Utility_ drawer. 
@@ -14,11 +14,11 @@ Janus provides messages in several places to let you know about important inform
 ### Levels of Alerts
 Janus uses these levels of information, each increasing the level of impact on your ability to proceed:
 
-1. **Status messages**—Information about an aspect of the system, such as whether the application is online or offline. They also provide information that informs you about your input or actions, but does so only to orient you to available options, for example, the message *You are editing scratch pad data. To save changes, overwrite case data*. These messages often appear at the top of the case data area but can also exist in the *Alerts* tab. They use an *i* icon at the beginning of the message. **[insert image lesson9-statusicon.png]**
+1. **Status messages**—Information about an aspect of the system, such as whether the application is online or offline. They also provide information that informs you about your input or actions, but does so only to orient you to available options, for example, the message *You are editing scratch pad data. To save changes, overwrite case data*. These messages often appear at the top of the case data area but can also exist in the *Alerts* tab. They use an *i* icon at the beginning of the message. ![](https://janustraining.blob.core.windows.net/images/lesson9-statusicon.png)
 
-2. **Warning messages**—Information that informs you that your actions or input can have an effect that isn’t optimal. However, you can still proceed with your task. For example, *Verify amount is not too high*. You can still process the case, but Janus wants you to know that your entry might need further attention. These alerts begin with an exclamation point in a triangle.  **[insert image lesson9-warningicon.png]**
+2. **Warning messages**—Information that informs you that your actions or input can have an effect that isn’t optimal. However, you can still proceed with your task. For example, *Verify amount is not too high*. You can still process the case, but Janus wants you to know that your entry might need further attention. These alerts begin with an exclamation point in a triangle.  ![](https://janustraining.blob.core.windows.net/images/lesson9-warningicon.png)
 
-3. **Error messages**—Conditions that block you from completing your task. For example, in the disability exam interval field, if you supplied more than three years for the disability exam interval, the message would be, *You cannot enter more than three years*. Until you reduce the years, you cannot calculate the case successfully. These alerts begin with an exclamation point in a circle. **[insert image lesson9-erroricon.png]**
+3. **Error messages**—Conditions that block you from completing your task. For example, in the disability exam interval field, if you supplied more than three years for the disability exam interval, the message would be, *You cannot enter more than three years*. Until you reduce the years, you cannot calculate the case successfully. These alerts begin with an exclamation point in a circle. ![](https://janustraining.blob.core.windows.net/images/lesson9-erroricon.png)
 
 In addition, messages can exist either as local or global:
 - **Local**—Message conditions that occur on the field or section level. These messages appear at the point of the error.
@@ -30,7 +30,7 @@ Let’s investigate how local alerts appear in Janus. Some fields validate the i
 
 Janus also places a vertical bar to the left of the field as well as a thicker border around the field to show you that this field has an error. 
 
-**[insert image lesson9-localalert.png]**
+![](https://janustraining.blob.core.windows.net/images/lesson9-localalert.png)
 
 ### Global Alerts
 When you attempt to calculate a case, Janus checks your values to see if there are any error conditions. 
@@ -38,7 +38,7 @@ If there are, Janus opens the *Utility* drawer automatically with the *Alerts* t
 
 Within the *Alerts* tab, you can dismiss status and warning messages. However, you have to update data or other conditions and then recalculate to dismiss errors.
 
-**[insert image lesson9-globalalert.png]**
+![](https://janustraining.blob.core.windows.net/images/lesson9-globalalert.png)
 
 ## Documents
 The *Documents* tab in the *Utility* drawer provides access to letters, forms, and other documents you need to process the case. Here’s how you work with documents:

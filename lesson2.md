@@ -15,12 +15,12 @@ Let's take a look at the elements of the home page so that you can understand th
 
 Looking at the columns going left to right, starting with a claim number, the case list shows the claim number for cases you're assigned to. You can sort each column. By default, when you open the case, Date Modified is the sorted column, and it shows the most recently modified case at the top. In this example, as you can see, 06/13/21 is the most recent date in this list, going back to 04/19/21.
 
-[insert image lesson2-home.png] 
+![](https://janustraining.blob.core.windows.net/images/lesson2-home.png)
 
 You can sort claim numbers alphanumerically, and you can sort names of annuitants ascending or descending. Versions can be sorted ascending or descending. You can do the same thing for status, date modified and latest comment as well. 
 Each row of the case shows you those elements when there is more than one version available. Selecting the Expand icon allows you to interact with each version of that particular claim. 
 
-[insert image lesson2-expand.png] 
+![](https://janustraining.blob.core.windows.net/images/lesson2-expand.png)
 
 The Comments column shows the latest comment from that case in a shortened form. In other words, it shows the first few words of a comment. This feature allows you to understand quickly whether that particular case is the one you want to work on. When you select that link, Janus takes you directly to that version of the case. Also, if that case has more than one version, you can determine which version you want to work on, based on the latest comment in that version.
 You can also reduce the list of displayed cases by selecting one of the statuses in the list next to the search field. That status list shows you: 
@@ -31,6 +31,8 @@ You can also reduce the list of displayed cases by selecting one of the statuses
 - In review face briefed cases 
 - Triggered face briefed cases
 - and those that are on hold 
+
+![](https://janustraining.blob.core.windows.net/images/lesson2-searchfield.png)
 
 The search field allows you to look for a particular item that you have access to. For example, if you know an annuitant’s name, you can type their name, or even a part of it. If you remember a comment associated with a case, you can look for that here, too. And if you remember part of a case number, you can search for that as well.  Use the Home page to your advantage by selecting a case, or finding it easily. These powerful, new features will help you move quickly through your work in Janus.
 
