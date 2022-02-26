@@ -53,7 +53,7 @@ To enter OWCP time, follow these steps:
 2. Similar to how you entered service, fill out the **Start date**, **End date**, and **Hours of OWCP**. 
 3. If necessary, select **Add another OWCP period**. Otherwise, select **Save**.
   
-![](https://janustraining.blob.core.windows.net/images/lesson5-addowcp.png)
+![](https://janustraining.blob.core.windows.net/images/lesson5-addrowcp.png)
 
 Once you save, Janus closes the OWCP fields and displays the table summarizing your entries. It also displays the total time the annuitant was on OWCP, shown as whole years and months, without any additional days. If you need to, you can override these values.
 

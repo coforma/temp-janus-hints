@@ -30,7 +30,7 @@ Let’s investigate how local alerts appear in Janus. Some fields validate the i
 
 Janus also places a vertical bar to the left of the field as well as a thicker border around the field to show you that this field has an error. 
 
-![](https://janustraining.blob.core.windows.net/images/lesson9-localalert.png)
+![](https://janustraining.blob.core.windows.net/images/lesson9-localaert.png)
 
 ### Global Alerts
 When you attempt to calculate a case, Janus checks your values to see if there are any error conditions. 
