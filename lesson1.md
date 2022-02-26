@@ -24,6 +24,7 @@ Let's talk about what the parts of Janus are at the top. In the dark bar, you ha
 Just under the header on the left you can view your CSA number, the social security number of the annuitant, and the status of the case.
 
 [insert image lesson1-header.png]
+!(https://janustraining.blob.core.windows.net/images/lesson1-header.png)
 
 On the right the _secondary navigation (Utility drawer)_ lets you look at—
 
