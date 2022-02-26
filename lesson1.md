@@ -36,7 +36,7 @@ On the right the _secondary navigation (Utility drawer)_ lets you look at—
 
 In the _main navigation_ on the left, you have the sections of the application itself. The main case area is a scrollable region that allows you to go through the case as necessary, either through scrolling, using the scroll bar, or tabbing through items. And even when you tab past the bottom of the visible screen, Janus continues to move forward, displaying the next field.
 
-![](https://janustraining.blob.core.windows.net/images/lesson1_mainnav.png)
+![](https://janustraining.blob.core.windows.net/images/lesson1-mainnav.png)
 
 At the bottom of Janus is the _Action bar_. The Action bar provides an area for actions to execute on the case that you’re looking at. We’ll look more into the Action Bar in depth in another lesson. 
 
