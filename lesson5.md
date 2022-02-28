@@ -59,7 +59,7 @@ Once you save, Janus closes the OWCP fields and displays the table summarizing y
 
 ## Other Tips
 Keep in mind that you can edit any row in a service or OWCP table. To do so, 
-1. Select the *pencil* icon ![](https://janustraining.blob.core.windows.net/images/lesson5-pencilicon.png) on the right of the row. Janus opens the details of that row. 
+1. Select the *pencil* icon on the right of the row. Janus opens the details of that row. 
 2. When you finish making your changes, select save.
 
 Janus can handle quite complex service histories, as you can tell. 
