@@ -1,4 +1,4 @@
-## Lesson Seven Script: Using Scratch Pad and Face Brief
+# Lesson Seven Script: Using Scratch Pad and Face Brief
 Welcome to Janus, the new retirement services application to help you adjudicate retirement claims. 
 
 In this lesson, we’ll look at two modes or ways to view data. 
