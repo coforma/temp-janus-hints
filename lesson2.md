@@ -14,7 +14,7 @@ Let's take a look at the elements of the home page so that you can understand th
 
 Reviewing the columns left to right, starting with _Claim number_, the case list shows the claim number for cases you have access to. You can sort each column. By default, when you open the case, _Date Modified_ is the sorted column, and it shows the most recently modified case at the top. In this example, as you can see, 04/26/2021 is the most recent date in this list, going back to 04/19/2021.
 
-![](https://janustraining.blob.core.windows.net/images/image lesson2-home.png)
+![](https://janustraining.blob.core.windows.net/images/lesson2-home.png)
 
 You can sort claim numbers alphanumerically, and you can sort names of annuitants ascending or descending. You can sort versions ascending or descending. You can do the same thing for _Status_, _Date modified,_ and _Comments_ as well. 
 
