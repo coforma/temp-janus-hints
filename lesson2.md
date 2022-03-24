@@ -18,7 +18,7 @@ Reviewing the columns left to right, starting with _Claim number_, the case list
 
 You can sort claim numbers alphanumerically, and you can sort names of annuitants ascending or descending. You can sort versions ascending or descending. You can do the same thing for _Status_, _Date modified,_ and _Comments_ as well. 
 
-Each row of the case shows you those elements when there is more than one version available. Selecting the **Expand icon **allows you to interact with each version of that particular claim. 
+Each row of the case shows you those elements when there is more than one version available. To interact with each version of that particular claim, select the **Expand icon**. 
 
 ![](https://janustraining.blob.core.windows.net/images/lesson2-expand.png)
 
