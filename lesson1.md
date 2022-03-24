@@ -16,7 +16,7 @@ Let’s talk about what the parts of Janus are at the top. In the dark bar, you 
 * Take a look at your profile. In this example, we're signed in as Pat Brown.
 * And log out. 
 
-Just under the header on the left you can view your CSA number, the social security number of the annuitant, and the status of the case.
+Just under the header on the left you can view the claim's number, the social security number of the annuitant, and the status of the case.
 
 ![](https://janustraining.blob.core.windows.net/images/lesson1-header.png)
 
