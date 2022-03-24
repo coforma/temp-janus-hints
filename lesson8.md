@@ -28,7 +28,7 @@ To add a comment—
 
 ![](https://janustraining.blob.core.windows.net/images/lesson8-comments.png)
 
-Once you finish with your comments, you can send the case back to the LAS. To do so, from the _Action bar, _select **Send back to edit**. Janus keeps the status of the case as _In review_.
+Once you finish with your comments, you can send the case back to the LAS. To do so, from the _Action bar_, select **Send back to edit**. Janus keeps the status of the case as _In review_.
 
 ## Triggering a Case
 
@@ -40,7 +40,7 @@ When your analysis indicates that there are no issues with the case you’re rev
 
 Remember that triggered case data isn’t fully committed until after the 6p.m. Eastern time zone mainframe run. If you find that you need to change something in that triggered case, if it’s before the 6p.m. cutoff, you can send the case back to the original LAS for changes. To do so—
 
-1. From the _Action bar_, select **Send back to edit**. Janus puts the case into _Edit _status.
+1. From the _Action bar_, select **Send back to edit**. Janus puts the case into _Edit_ status.
 2. Notify the LAS that you have pulled the case back so changes can be made. 
 3. Once everything is in order, trigger the case again.
 
