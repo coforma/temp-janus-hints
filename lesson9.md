@@ -11,19 +11,22 @@ In this topic, we’ll look at the Utility Drawer. Specifically, let’s go into
 
 ## Alerts
 
-Janus provides messages in several places to let you know about important information. Some of these messages exist as notifications in line with fields to let you know about missing or errant information. Others exist within the _Alerts_ tab of the _Utility drawer. _
+Janus provides messages in several places to let you know about important information. Some of these messages exist as notifications in line with fields to let you know about missing or errant information. Others exist within the _Alerts_ tab of the _Utility drawer._
 
 ### Levels of Alerts
 
 Janus uses these levels of information, each increasing the level of impact on your ability to proceed:
 
-1. **Status messages**—Information about an aspect of the system, such as whether the application is online or offline. They also provide information that informs you about your input or actions, but does so only to orient you to available options. For example, _You are editing scratch pad data. To save changes, overwrite case data. _These messages often appear at the top of the case data area but can also exist in the _Alerts_ tab. They use an _i_ icon at the beginning of the message.\
+1. **Status messages**—Information about an aspect of the system, such as whether the application is online or offline. They also provide information that informs you about your input or actions, but does so only to orient you to available options. For example, _You are editing scratch pad data. To save changes, overwrite case data_. These messages often appear at the top of the case data area but can also exist in the _Alerts_ tab. They use an _i_ icon at the beginning of the message.
+
 ![](https://janustraining.blob.core.windows.net/images/lesson9-statusicon.png)
 
-2. **Warning messages**—Information that informs you that your actions or input can have an effect that isn’t optimal. However, you can still proceed with your task. For example, _Verify amount is not too high. _You can still process the case, but Janus wants you to know that your entry might need further attention. These alerts begin with an exclamation point in a triangle.\
+2. **Warning messages**—Information that informs you that your actions or input can have an effect that isn’t optimal. However, you can still proceed with your task. For example, _Verify amount is not too high_. You can still process the case, but Janus wants you to know that your entry might need further attention. These alerts begin with an exclamation point in a triangle.
+
 ![](https://janustraining.blob.core.windows.net/images/lesson9-warningicon.png)
 
-3. **Error messages**—Conditions that block you from completing your task. For example, in the disability exam interval field, if you supplied more than three years for the disability exam interval, the message would be, _You cannot enter more than three years. _Until you reduce the years, you cannot calculate the case successfully. These alerts begin with an exclamation point in a circle.\
+3. **Error messages**—Conditions that block you from completing your task. For example, in the disability exam interval field, if you supplied more than three years for the disability exam interval, the message would be, _You cannot enter more than three years_. Until you reduce the years, you cannot calculate the case successfully. These alerts begin with an exclamation point in a circle.
+
 ![](https://janustraining.blob.core.windows.net/images/lesson9-erroricon.png)
 
 In addition, messages can exist either as local or global:
@@ -59,14 +62,14 @@ Here’s how you work with documents:
     * Internal reports
     * Election letters
     * Letters
-    * Explanations \
- \
+    * Explanations 
+    
 The documents within each category are largely in alphabetical order, with some exceptions to ensure that related documents are placed together in an appropriate order.
 4. Select the document you would like to use. Janus displays that document as a PDF. You can view it on screen, download it, or print the document.
 
 ### Dynamic Documents
 
-Dynamic documents require you to make decisions and/or enter additional information that will be used to populate the document. The only two dynamic documents in Janus are the _case file report,  case notices_, and _free-form document_.  With the case file report, you can choose which sections to print. With case notices, you have many options that might even include custom information. For an example let’s look at the _free-form letter_:
+Dynamic documents require you to make decisions and/or enter additional information that will be used to populate the document. The only two dynamic documents in Janus are the _case file report_, _case notices_, and _free-form document_.  With the case file report, you can choose which sections to print. With case notices, you have many options that might even include custom information. For an example let’s look at the _free-form letter_:
 
 1. With the _Utility drawer_ open to _Documents,_ from within the _Letters_ section, select **Free-form letter**. Janus opens the _Free-form letter_ view.
 2. Janus lets you know that it will use the data from the case to populate the date, the to: information, and the from: block of text. In the _For your information (custom content)_ field, type the information you want to include in the letter.
@@ -75,7 +78,7 @@ Dynamic documents require you to make decisions and/or enter additional informat
 
 ## History
 
-When a change occurs to a case, Janus keeps track of those changes. The _History _tab of the _Utility drawer_ provides a list with the most recent ones at the top. Each entry has these elements:
+When a change occurs to a case, Janus keeps track of those changes. The _History_ tab of the _Utility drawer_ provides a list with the most recent ones at the top. Each entry has these elements:
 
 * A description of what occurred. For example, “Case calculated.”
 * The name of the person who made that change.
@@ -83,7 +86,7 @@ When a change occurs to a case, Janus keeps track of those changes. The _History
 
 ## Comments
 
-Janus lets you add case-specific, free-form comments. You can also decide whether to include specific comments in a report. The _Comments _tab of the _Utility drawer_ provides a list of any existing comments, with the most recent at the top. Each entry has these elements:
+Janus lets you add case-specific, free-form comments. You can also decide whether to include specific comments in a report. The _Comments_ tab of the _Utility drawer_ provides a list of any existing comments, with the most recent at the top. Each entry has these elements:
 
 * The text of the comment. For example, “I needed to re-enter Maia’s survivor information.”
 * The name of the person who made that comment.
