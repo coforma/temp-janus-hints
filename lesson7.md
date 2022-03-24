@@ -5,7 +5,7 @@ Welcome to Janus, the new retirement services application to help you adjudicate
 In this topic, we’ll look at two modes or ways to view data. 
 
 * The first is _Scratch pad_, which takes a temporary approach to case data so you can run different scenarios.
-* The second is _face brie_f, which allows you to directly alter the data that Janus sends to the mainframe.
+* The second is _Face brief_, which allows you to directly alter the data that Janus sends to the mainframe.
 
 In covering each we’ll talk about—
 
@@ -73,9 +73,9 @@ When you are ready to face-brief a case, follow these steps:
 2. From the _Action Bar_, select **Additional case actions**.
 3. From the list of actions that appears, select **Edit face brief data**. 
 
-Note how the case changes. At the top in the _Face brief message area_, Janus lets you know that you are editing face-brief data. In the body of the case, Janus displays non-editable, read-only data in a compact view. Any items you _can_ edit appear in form fields, for example, _Gross to net_ or the _FERS data file_. Too, note that you _don’t _see the FERS data file in the case data view.
+Note how the case changes. At the top in the _Face brief message area_, Janus lets you know that you are editing face-brief data. In the body of the case, Janus displays non-editable, read-only data in a compact view. Any items you _can_ edit appear in form fields, for example, _Gross to net_ or the _FERS data file_. Too, note that you _don’t_ see the FERS data file in the case data view.
 
-![](https://janustraining.blob.core.windows.net/images/lesson7-Facebrief.png)
+![](https://janustraining.blob.core.windows.net/images/lesson7-facebrief.png)
 
 When you access face brief data, Janus adds an icon (using the letters “FB”)  in each section header. As you scroll through the case, just like in the case data view, Janus keeps the section header fixed to the top of the view until you scroll down far enough to replace that section header. And each section header has the FB icon in it.  Again, the presence of read-only areas also signals that you’re in face-brief view.
 
