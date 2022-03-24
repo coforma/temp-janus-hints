@@ -22,7 +22,7 @@ Each row of the case shows you those elements when there is more than one versio
 
 ![](https://janustraining.blob.core.windows.net/images/lesson2-expand.png)
 
-The Comments column shows the latest comment from that case in a shortened form. In other words, it shows the first few words of a comment. This feature allows you to understand quickly whether that particular case is the one you want to work on. When you select that link, Janus takes you directly to that version of the case. Also, if that case has more than one version, you can determine which version you want to work on, based on the latest comment in that version.
+The _Comments_ column shows the latest comment from that case in a shortened form. In other words, it shows the first few words of a comment. This feature allows you to understand quickly whether that particular case is the one you want to work on. When you select that link, Janus takes you directly to that version of the case. Also, if that case has more than one version, you can determine which version you want to work on, based on the latest comment in that version.
 
 You can also reduce the list of displayed cases by selecting one of the statuses in the list next to the search field. That status list shows you: 
 
